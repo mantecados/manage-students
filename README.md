@@ -1,9 +1,9 @@
-# STUDENT MANAGE v1.0
+# MANAGE STUDENTS v1.0
 This is the source code of one of my first programs written in C.
 
 ### Download
 
-Just download and execute the .exe file in the [releases](https://github.com/mantecados/student-manage/releases/tag/v1.0.0) page
+Just download and execute the .exe file in the [releases](https://github.com/mantecados/manage-students/releases/tag/v1.0.0) page
 
 
 ### How does it work?
